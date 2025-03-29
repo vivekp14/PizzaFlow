@@ -1,4 +1,3 @@
-README
 🍕 PizzaFlow: A Reactive Pizza Shop CRUD REST API
 
 PizzaFlow is a modern and scalable RESTful API designed for a local pizza shop. Built with Spring Boot, Spring WebFlux, and MongoDB, the application showcases the power of reactive programming to deliver non-blocking, asynchronous operations. The API enables efficient management of pizzas and orders while ensuring high performance under load.
