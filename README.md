@@ -15,7 +15,5 @@ Spring WebFlux: To enable reactive programming and non-blocking operations.
 
 MongoDB: A NoSQL database for data storage, integrated with reactive support.
 
-Lombok: To reduce boilerplate code for data models.
-
 Maven: Dependency and build management.
 
